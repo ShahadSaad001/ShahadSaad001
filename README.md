@@ -1,6 +1,6 @@
 ### ~ Aspiring Software Engineer ~
 
-##### Tech Stack
+#### Tech Stack
 
 **Languages:** JavaScript, TypeScript, C#, Java  
 **Databases:** MySQL, PostgreSQL, SQL Server  
