@@ -2,6 +2,6 @@
 
 #### Tech Stack
 
-**Languages:** JavaScript, TypeScript, Java
-**Databases:** MySQL, PostgreSQL
-**Technologies:** NestJS, React Native, Prisma
+**Languages:** JavaScript, TypeScript, Java  
+**Databases:** MySQL, PostgreSQL  
+**Technologies:** NestJS, React Native, Prisma 
