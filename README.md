@@ -1,7 +1,3 @@
 ### ~ Software Engineer ~
 
-#### Tech Stack
-
-**Languages:** JavaScript, TypeScript, Java  
-**Databases:** MySQL, PostgreSQL  
-**Technologies:** NestJS, React Native, Prisma 
+Java, TypeScript, NestJS, React Native, Java Spring Boot, NeoVim
