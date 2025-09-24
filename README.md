@@ -1,3 +1,3 @@
 ### ~ Software Engineer ~
 
-Java · TypeScript · React Native · Java Spring Boot · Neovim
+Java · TypeScript · React Native · NestJS · Java Spring Boot · Neovim
